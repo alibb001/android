@@ -14,8 +14,6 @@ import java.util.List;
 
 /**
  * 
- * @author Sunny
- * @contact qq交流群：android达人（121169081） Mar 22, 2014
  */
 public class MainActivity extends Activity {
 	private Context context = this;
